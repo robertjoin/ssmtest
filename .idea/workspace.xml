@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6201f3f3-33c0-4034-9e8b-89fd109b4be2" name="Default Changelist" comment="first">
+    <list default="true" id="6201f3f3-33c0-4034-9e8b-89fd109b4be2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxxk/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxxk/controller/TestController.java" afterDir="false" />
     </list>
@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zxxk/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,7 +53,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
@@ -127,7 +127,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,6 +183,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,7 +388,8 @@
       <workItem from="1562752936729" duration="225000" />
       <workItem from="1562815224660" duration="3192000" />
       <workItem from="1562823543739" duration="1074000" />
-      <workItem from="1562824681952" duration="2245000" />
+      <workItem from="1562824681952" duration="4496000" />
+      <workItem from="1562829227182" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1562747635081</created>
@@ -418,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562823788825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ss">
+      <created>1562826946881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562826946881</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -430,7 +438,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20142000" />
+    <option name="totallyTimeSpent" value="24222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,8 +453,8 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.21268657" />
-      <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" visible="true" weight="0.21268657" />
+      <window_info id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.21481876" />
+      <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" visible="true" weight="0.21481876" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -460,9 +468,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.21691974" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.22121535" side_tool="true" visible="true" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.77878463" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49733475" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.7771855" weight="0.329718" />
       <window_info anchor="bottom" id="Application Servers" order="10" weight="0.3286334" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -508,13 +516,28 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../gitrepository" />
     </ignored-roots>
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml.tld" />
@@ -569,7 +592,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zxxk/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
